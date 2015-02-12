@@ -16,9 +16,3 @@ exports.compileFile = function (path, options) {
   options.filename = options.filename || path;
   return exports.compile(fs.readFileSync(path, 'utf8'), options);
 };
-exports.compileFileClient = function (path, options) {
-  options = options || {};
-  options.client = true;
-  options.filename = options.filename || path;
-  return exports.compile(fs.readFileSync(path, 'utf8'), options).toString();
-};
