@@ -62,17 +62,6 @@ try {
   console.error(e.stack);
 }
 
-try {
-  console.log('\ncompileFileClient():')
-  output = transform.compileFileClient(file);
-  eval('output = ' + output);
-  output = output(locals);
-  assertEqual(output, expected);
-} catch (e) {
-  failed = true;
-  console.error(e.stack);
-}
-
 console.log('\nTests ' + (failed ? 'FAILED' : 'PASSED'));
 
 if (failed) process.exit(1);
