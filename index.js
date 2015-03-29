@@ -4,7 +4,7 @@ var ejs = require('ejs');
 var fs  = require('fs');
 
 exports.name = 'ejs';
-exports.outputFormat = 'xml';
+exports.outputFormat = 'html';
 exports.compile = ejs.compile;
 exports.compileClient = function (source, options) {
   options = options || {};
