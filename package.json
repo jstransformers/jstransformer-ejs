@@ -1,13 +1,13 @@
 {
   "name": "jstransformer-ejs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Transform EJS template into HTML.",
   "keywords": [
     "jstransformer",
     "ejs"
   ],
   "dependencies": {
-    "ejs": "^2.2.4"
+    "ejs": "^2.3.1"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",

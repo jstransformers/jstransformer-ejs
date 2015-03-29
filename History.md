@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.0.4: 2015-03-29
+
+- Fix regression test
+- Update EJS to 2.3.1
+
 ## v0.0.3: 2015-03-29
 
 - Use `'html'` as output format
