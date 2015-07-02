@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.0: 2015-07-02
+
+- Updated dependencies
+
 ## v0.0.4: 2015-03-29
 
 - Fix regression test
