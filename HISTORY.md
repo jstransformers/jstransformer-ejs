@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.x: xxxx-xx-xx
+
+- Updated Boilerplate
+
 ## v0.1.0: 2015-07-02
 
 - Updated dependencies
