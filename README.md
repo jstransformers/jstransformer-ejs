@@ -1,7 +1,5 @@
 # jstransformer-ejs
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-ejs.svg)](https://greenkeeper.io/)
-
 [EJS](https://github.com/mde/ejs) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-ejs/master.svg)](https://travis-ci.org/jstransformers/jstransformer-ejs)
