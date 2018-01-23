@@ -1,7 +1,7 @@
 'use strict'
 
-var fs = require('fs')
-var ejs = require('ejs')
+const fs = require('fs')
+const ejs = require('ejs')
 
 exports.name = 'ejs'
 exports.outputFormat = 'html'
