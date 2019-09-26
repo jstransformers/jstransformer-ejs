@@ -11,6 +11,7 @@ exports.compileClient = function (source, options) {
   options.client = true
   return exports.compile(source, options).toString()
 }
+
 exports.compileFile = function (path, options) {
   options = options || {}
   options.filename = options.filename || path
