@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.0.0: 2022-06-01
+- Updated EJS 2.5.7 -> 3.1.8
+- Adds support for transformer methods: compileFileAsync, render, renderFile, renderFileAsync
+- Drop support for Node < 8.3.0
+- Restructure to conform to xo rules
+- Tidy up README.md
+
 ## v0.2.0: 2018-01-22
 
 - Updated Boilerplate
