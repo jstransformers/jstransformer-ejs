@@ -10,7 +10,7 @@
     "index.js"
   ],
   "dependencies": {
-    "ejs": "^3.1.8"
+    "ejs": "^3.1.9"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
